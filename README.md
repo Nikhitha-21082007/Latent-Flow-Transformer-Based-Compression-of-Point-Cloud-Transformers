@@ -61,7 +61,6 @@ The diagram above reproduces every stage of the experiment end to end: the full 
 ├── RR_calculate.py                # Stage 2: Recoupling Ratio computation & block selection
 ├── LFT_FW.py                      # Stage 3: Flow-Walking velocity estimator training
 ├── Finetune.py                    # Stage 4: end-to-end fine-tuning of the compressed model
-└── Report.pdf                     # full technical report
 ```
 
 ---
