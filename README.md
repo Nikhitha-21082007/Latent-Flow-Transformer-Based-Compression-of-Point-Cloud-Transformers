@@ -2,7 +2,11 @@
 
 This repository contains the experiment, code, and results for a study that combines **train-time model calibration** with **latent-flow-based structural compression** for transformer-based 3D point cloud classification. We train a calibrated Point Cloud Transformer (PCT) and then structurally compress it by replacing a block of its Offset-Attention layers with a single learned latent transport module, evaluating the effect on both classification accuracy and calibration quality.
 
-This work was carried out under the guidance of Prof. Shanmuganathan Raman. We also thank Ms. Seema Kumari for her guidance and support throughout this project.
+---
+ 
+### Acknowledgements
+ 
+This work was carried out under the guidance of **Prof. Shanmuganathan Raman** and **Ms. Seema Kumari**.
 ---
 
 ## Overview
